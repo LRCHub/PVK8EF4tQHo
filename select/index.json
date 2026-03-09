@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "緋色",
+  "base_artist": "詞遠",
+  "createdAt": "2026-03-09T13:56:57.390177Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "緋色",
+      "artist": "詞遠",
+      "has_synced": false,
+      "path": "select/pl_01_緋色_詞遠.txt"
+    }
+  ]
+}
